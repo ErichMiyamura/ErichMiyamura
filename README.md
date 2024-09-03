@@ -43,7 +43,7 @@
 
 <!-- Contato -->
 <section>
-  <h2>Contato:</h2>
+  <h2>📧 Contato</h2>
   <div style="display: inline_block">
     <a href="https://www.linkedin.com/in/erich-m-707880149/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:erichfalken95@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
