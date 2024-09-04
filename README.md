@@ -1,4 +1,4 @@
-<h1>Olá, eu sou Erich Miyamura 👋😃</h1>
+<h1>Olá, eu sou Erich Miyamura! 👋😃</h1>
 
 <ul>
   <li>🧑‍💻 Desenvolvedor Full Stack Java</li>
@@ -15,7 +15,7 @@
 <section>
   <h2>⚡ Tecnologias</h2>
   <div style="display: inline_block">
-    <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java" />
+    <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" />
     <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
     <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular" />
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -23,7 +23,7 @@
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img alt="SQL" src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
   </div>
 </section>
