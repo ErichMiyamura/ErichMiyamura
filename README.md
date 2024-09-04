@@ -62,9 +62,7 @@
   </div>
 </section>
 
-<br/>
-
-<br/>
+<br/><br/><br/>
 
 <!-- Imagem -->
 <div align="center">
