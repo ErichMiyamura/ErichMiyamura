@@ -34,8 +34,8 @@ jobs:
         with:
           github_user_name: ErichMiyamura
           outputs: |     
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif
+            dist/github-contribution-grid-snake.svg
         env:
            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
