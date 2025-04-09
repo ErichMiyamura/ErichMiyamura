@@ -5,7 +5,7 @@
 <br/>
 
 <ul>
-  <li>🧑‍💻 Desenvolvedor Full Stack Java</li>
+  <li>🧑‍💻 Desenvolvedor Full Stack</li>
   <li>💙 Formado em Sistemas de Informação na FIAP</li>
 </ul>
 
