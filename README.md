@@ -1,5 +1,4 @@
 <h1 align="center">
-    <img src="images/starwars-baby-yoda.png" width="36">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+there!+👋;+Eu+sou+Erich+Miyamura!+;"/>
 </h1>
 
@@ -51,6 +50,7 @@
     <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
     <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
     <img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />
+      <img src="images/starwars-baby-yoda.png" width="36"/>
   </div>
 </section>
 
