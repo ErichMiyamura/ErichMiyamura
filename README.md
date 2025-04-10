@@ -64,7 +64,7 @@
   </div>
 </section>
 
-<br/><br/>
+<br/>
 
 <!-- Animação -->
 <div align="center">
