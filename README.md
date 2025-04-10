@@ -68,7 +68,7 @@
 
 <!-- Animação -->
 <div align="center">
-  <h2>🐍 Minha contribuição 🐍</h2>
+  <h2><img src="images/starwars-baby-yoda.png" width="36" height="34"> Minha contribuição <img src="images/starwars-baby-yoda.png" width="36" height="34"></h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ErichMiyamura/ErichMiyamura/output/github-contribution-grid-snake-dark.svg" />
   
