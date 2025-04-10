@@ -7,6 +7,7 @@
 <ul>
   <li>🧑‍💻 Desenvolvedor Full Stack</li>
   <li>💙 Formado em Sistemas de Informação na FIAP</li>
+  <li>🐍 Estudando Python</li>
 </ul>
 
 <br/>
@@ -23,6 +24,7 @@
 <section>
   <h2>⚡ Tecnologias</h2>
   <div style="display: inline_block">
+    <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
     <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" />
     <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
     <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular" />
